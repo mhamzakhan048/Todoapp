@@ -1,0 +1,43 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 10cm;
+}
+
+.form-control{
+    width: 50px;
+}
+
+.blue{
+    background-color: rgb(3, 63, 190);
+    color: white;
+    border-radius: 5px;
+    }
+
+.red{
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+}
+
+#todo-item{
+border: none;
+border-bottom : 1px solid;
+width: 250px;
+}
+
+/* .btn{
+    background-image: url("trash.png");
+ background-color:white;
+    border-radius: 5px;
+} */
+/* 
+.fa fa-trash-o{
+    size: 50px important!;
+} */
+.butn{
+    border-radius: 5px;
+}
+
+/* .todo{
+    width: 50px;
+} */
